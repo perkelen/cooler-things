@@ -381,26 +381,4 @@ $ npm test
 - Add feature on [the playground](https://github.com/cssnext/cssnext-playground) example
 - Add feature on [the website](https://github.com/cssnext/cssnext.github.io)
 
-## [Changelog](CHANGELOG.md)
 
-## [License](LICENSE)
-
----
-
-## People
-
-The current lead maintainer is [Maxime Thirouin](http://moox.io/). [![MoOx' Gratipay](https://img.shields.io/gratipay/MoOx.svg)](https://gratipay.com/MoOx/)
-
-See [all contributors](https://github.com/cssnext/cssnext/graphs/contributors).
-
-## Acknowledgements
-
-Huge thanks to all the people that where involved in:
-
-- [rework](https://github.com/reworkcss/rework/graphs/contributors)
-- [rework css parser](https://github.com/reworkcss/css/graphs/contributors)
-- [myth](https://github.com/segmentio/myth/graphs/contributors)
-- [autoprefixer](https://github.com/postcss/autoprefixer/graphs/contributors)
-- [postcss](https://github.com/postcss/postcss/graphs/contributors)
-
-Without all those people, this project would not exist.
